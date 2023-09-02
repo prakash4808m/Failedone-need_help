@@ -1,0 +1,21 @@
+[debug] [2023-09-01T11:20:16.894Z] ----------------------------------------------------------------------
+[debug] [2023-09-01T11:20:16.896Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\preka\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-09-01T11:20:16.896Z] CLI Version:   12.5.2
+[debug] [2023-09-01T11:20:16.896Z] Platform:      win32
+[debug] [2023-09-01T11:20:16.897Z] Node Version:  v19.7.0
+[debug] [2023-09-01T11:20:16.897Z] Time:          Fri Sep 01 2023 17:05:16 GMT+0545 (Nepal Time)
+[debug] [2023-09-01T11:20:16.897Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-09-01T11:20:16.902Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-09-01T11:20:16.903Z] > authorizing via signed-in user (prekashmagar2017@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\preka\Desktop\clone - Copy
+
